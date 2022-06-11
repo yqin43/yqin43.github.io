@@ -1,0 +1,17 @@
+baseURL = 'https://yqin43.github.io/'
+languageCode = 'en-us'
+title = 'Yuehan Qin | 秦月菡'
+theme = "ananke"
+
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+ 
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/yqin43"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/yuehan-qin-845071176/"
