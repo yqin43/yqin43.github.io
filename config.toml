@@ -15,3 +15,7 @@ url = "https://github.com/yqin43"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/yuehan-qin-845071176/"
+
+[[params.ananke_socials]]
+name = "email"
+url = "mailto:yuehanqi@usc.edu"
