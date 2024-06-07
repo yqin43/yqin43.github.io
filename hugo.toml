@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Yuehan Qin | 秦月菡'
 theme = 'PaperMod'
 
+[params]
+hideFooter = true
+
 [params.profileMode]
 enabled = true
 title = " "
