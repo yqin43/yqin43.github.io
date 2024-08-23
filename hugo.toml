@@ -1,0 +1,38 @@
+baseURL = 'https://yqin43.github.io'
+languageCode = 'en-us'
+title = 'Yuehan Qin | 秦月菡'
+theme = 'PaperMod'
+
+[params]
+hideFooter = true
+
+[params.profileMode]
+enabled = true
+title = " "
+subtitle = "I'm a second-year Ph.D. student in the Computer Science Department at University of Southern California. Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison."
+
+imageUrl = "img/IMG_3506.jpg"
+imageWidth = 200
+imageHeight = 200
+
+[[menu.main]]
+identifier = "publication"
+name = "Publications"
+url = "/publication/"
+weight = 1
+
+[[menu.main]]
+identifier = "Github"
+name = "Github"
+url = "https://github.com/yqin43"
+weight = 2
+
+[[menu.main]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/yuehan-qin-845071176/"
+weight = 3
+
+[[menu.main]]
+name = "Email"
+url = "mailto:yuehanqi@usc.edu"
+weight = 4
