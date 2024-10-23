@@ -6,6 +6,11 @@ draft = false
 [Google Scholar](https://scholar.google.com/citations?user=byAHud4AAAAJ&hl=en)
 
 <!-- ### Conference Papers: -->
+### Preprints
+1. MetaOOD: Automatic Selection of OOD Detection Models.\
+__Qin Y.\*__, Zhang Y.\*, Nian Y.\*, Ding X., Zhao Y.\
+[__link__](http://arxiv.org/abs/2410.03074)
+
 ### Workshop Papers:
 1. MetaOOD: Meta-learning for Automatic Out-of-Distribution Detection Model Selection.\
 __Qin Y.__, Zhang Y., Zhao Y.\
