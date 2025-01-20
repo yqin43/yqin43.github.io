@@ -15,9 +15,9 @@
       <description>Google Scholar
 Preprints MetaOOD: Automatic Selection of OOD Detection Models.
 Qin Y.*, Zhang Y.*, Nian Y.*, Ding X., Zhao Y.
-link Workshop Papers: MetaOOD: Meta-learning for Automatic Out-of-Distribution Detection Model Selection.
-Qin Y., Zhang Y., Zhao Y.
-RelKD @ KDD 2024 Best Paper Award Journal Papers: Coupling relationship analysis of gold content using Gaofen-5 (GF-5) satellite hyperspectral remote sensing data: A potential method in Chahuazhai gold mining area, Qiubei County, SW China.</description>
+link
+PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection Chen S., Qian Z., Siu W., Hu X., Li J., Li S., Qin Y., Yang T., Xiao Z., Ye W., Zhang Y., Dong Y., Zhao Y.. link
+Workshop Papers: MetaOOD: Meta-learning for Automatic Out-of-Distribution Detection Model Selection.</description>
     </item>
   </channel>
 </rss>

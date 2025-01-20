@@ -11,11 +11,15 @@ draft = false
 __Qin Y.\*__, Zhang Y.\*, Nian Y.\*, Ding X., Zhao Y.\
 [__link__](http://arxiv.org/abs/2410.03074)
 
-### Workshop Papers:
+### Workshop, Demo, and Short Papers:
 1. MetaOOD: Meta-learning for Automatic Out-of-Distribution Detection Model Selection.\
 __Qin Y.__, Zhang Y., Zhao Y.\
 RelKD @ KDD 2024
 __Best Paper Award__
+
+2. PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection
+Chen S., Qian Z., Siu W., Hu X., Li J., Li S., __Qin Y.__, Yang T., Xiao Z., Ye W., Zhang Y., Dong Y., Zhao Y.\
+WWW 2025 Demo [__link__](https://www.arxiv.org/abs/2412.12154)
 
 ### Journal Papers:
 1. Coupling relationship analysis of gold content using Gaofen-5 (GF-5) satellite hyperspectral remote sensing data: A potential method in Chahuazhai gold mining area, Qiubei County, SW China.\
