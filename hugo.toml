@@ -9,7 +9,7 @@ hideFooter = true
 [params.profileMode]
 enabled = true
 title = " "
-subtitle = "I'm a Ph.D. student in the Computer Science Department at University of Southern California. Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022. My research interests focus on enhancing the robustness and accessibility of machine learning models, including out-of-distribution (OOD) detection and automated machine learning."
+subtitle = "I'm a Ph.D. student in the Computer Science Department at University of Southern California, supervised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022. My research interests focus on enhancing the robustness and accessibility of machine learning models, including out-of-distribution (OOD) detection and automated machine learning."
 
 imageUrl = "img/IMG_4878.jpg"
 imageWidth = 200
