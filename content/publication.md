@@ -13,7 +13,7 @@ __Yuehan Qin__, Shawn Li, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma.
 __Yuehan Qin__, Li Li, Defu Cao, Tiankai Yang, Yue Zhao.
 
 3. [__ClimateLLM: Efficient Weather Forecasting via Frequency-Aware Large Language Models.__](https://arxiv.org/abs/2502.11059)\
-Shixuan Li, Wei Yang, Peiyu Zhang, Xiongye Xiao, Defu Cao, __Yuehan Qin__, Xiaole Zhang, Yue Zhao, Paul Bogdan.
+Shixuan Li†, Wei Yang†, Peiyu Zhang, Xiongye Xiao, Defu Cao, __Yuehan Qin__, Xiaole Zhang, Yue Zhao, Paul Bogdan.
 
 4. [__A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations.__](https://arxiv.org/abs/2505.14106) \
 Li Li, Peilin Cai, Ryan A Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, __Yuehan Qin__, Nesreen K Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S Yu, Xiyang Hu, Yue Zhao.
@@ -25,7 +25,7 @@ __Yuehan Qin__†, Yichi Zhang†, Yi Nian†, Xueying Ding, Yue Zhao\
 ICLR 2025
 
 2. [__JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model.__](https://arxiv.org/abs/2504.03770)\
-Yi Nian, Shenzhe Zhu, __Yuehan Qin__, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao.\
+Yi Nian†, Shenzhe Zhu†, __Yuehan Qin__, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao.\
 COLM 2025
 
 3. [__Treble Counterfactual VLMs: A Causal Approach to Hallucination.__](https://arxiv.org/abs/2503.06169)\
