@@ -1,0 +1,26 @@
+/* light / dark */
+:root { --code-bg:#f6f8fa; --code-radius:7px; }
+html[data-theme='dark'] { --code-bg:#0d1117; }
+
+.chroma .n  { color: #24292e !important; } /* 普通变量 */
+.post-content pre,
+.post-content pre code,
+.highlight pre,
+.chroma,
+.chroma pre {
+  background: var(--code-bg) !important;
+  border-radius: var(--code-radius) !important;
+}
+
+/* line-number table cells (Chroma) */
+.chroma .lntable,
+.chroma .lnt,
+.chroma .hl { 
+  background: var(--code-bg) !important;
+}
+
+/* padding = softer look
+.post-content pre,
+.chroma pre { 
+  padding: 14px 16px !important;
+} */

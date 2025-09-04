@@ -3,17 +3,22 @@ languageCode = 'en-us'
 title = 'Yuehan Qin | 秦月菡'
 theme = 'PaperMod'
 
+
 [params]
 hideFooter = true
 
 [params.profileMode]
 enabled = true
 title = " "
-subtitle = "I'm a Ph.D. student in the Computer Science Department at University of Southern California, advised by professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022. My research interests focus on enhancing the robustness and accessibility of machine learning models, including out-of-distribution (OOD) detection and automated machine learning."
+subtitle = "I'm a Ph.D. candidate in the Computer Science Department at University of Southern California, advised by professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022. My research interests focus on enhancing the robustness and accessibility of machine learning models, including out-of-distribution (OOD) detection and automated machine learning."
 
 imageUrl = "img/IMG_4878.jpg"
 imageWidth = 200
 imageHeight = 200
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "/about/"
 
 [[menu.main]]
 identifier = "publication"
@@ -28,11 +33,6 @@ url = "https://github.com/yqin43"
 weight = 2
 
 [[menu.main]]
-name = "Linkedin"
+name = "LinkedIn"
 url = "https://www.linkedin.com/in/yuehan-qin-845071176/"
 weight = 3
-
-[[menu.main]]
-name = "Email"
-url = "mailto:yuehanqi@usc.edu"
-weight = 4
