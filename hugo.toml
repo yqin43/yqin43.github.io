@@ -16,10 +16,6 @@ imageUrl = "img/IMG_4878.jpg"
 imageWidth = 200
 imageHeight = 200
 
-[[params.profileMode.buttons]]
-name = "About Me"
-url = "/about/"
-
 [[menu.main]]
 identifier = "publication"
 name = "Publications"
@@ -36,3 +32,8 @@ weight = 2
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/yuehan-qin-845071176/"
 weight = 3
+
+[[menu.main]]
+name = "Email"
+url = "mailto:yuehanqi@usc.edu"
+weight = 4
