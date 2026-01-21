@@ -7,7 +7,7 @@ draft = false
 
 ### Preprints:
 1. [__Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning.__](https://arxiv.org/abs/2504.06438)\
-__Yuehan Qin__, Shawn Li, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma.
+__Yuehan Qin__, Shawn Li, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma.\
 ER @ NeurIPS 2025
 
 2. [__M3OOD: Automatic Selection of Multimodal OOD Detectors.__](https://arxiv.org/abs/2508.11936) \
@@ -17,7 +17,7 @@ __Yuehan Qin__, Li Li, Defu Cao, Tiankai Yang, Yue Zhao.
 Shixuan Li†, Wei Yang†, Peiyu Zhang, Xiongye Xiao, Defu Cao, __Yuehan Qin__, Xiaole Zhang, Yue Zhao, Paul Bogdan.
 
 4. [__A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations.__](https://arxiv.org/abs/2505.14106) \
-Li Li, Peilin Cai, Ryan A Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, __Yuehan Qin__, Nesreen K Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S Yu, Xiyang Hu, Yue Zhao.
+Li Li, Peilin Cai, Ryan A Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, __Yuehan Qin__, Nesreen K Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S Yu, Xiyang Hu, Yue Zhao.\
 MTI-LLM @ NeurIPS 2025 Spotlight
 
 ### Conference Papers:
