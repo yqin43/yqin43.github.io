@@ -43,7 +43,7 @@ WWW 2025 (Demo Track)
 ### Journal Papers:
 1. [__Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning.__](https://arxiv.org/abs/2504.06438)\
 __Yuehan Qin__, Shawn Li, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma.\
-TMLR
+TMLR\
 ER @ NeurIPS 2025
 
 2. [__Coupling relationship analysis of gold content using Gaofen-5 (GF-5) satellite hyperspectral remote sensing data: A potential method in Chahuazhai gold mining area, Qiubei County, SW China.__](https://doi.org/10.3390/rs14010109)\
