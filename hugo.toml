@@ -10,7 +10,11 @@ hideFooter = true
 [params.profileMode]
 enabled = true
 title = " "
-subtitle = "I'm a Ph.D. candidate in the Computer Science Department at University of Southern California, advised by professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022. My research interests focus on enhancing the robustness and accessibility of machine learning models, including out-of-distribution (OOD) detection and automated machine learning."
+subtitle = """
+I'm a Ph.D. candidate in the Computer Science Department at University of Southern California, advised by professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). Previously, I received my B.S. in Computer Science and in Cartography & GIS from University of Wisconsin-Madison in 2022.
+
+My research focuses on developing trustworthy and reliable AI systems under distribution shift, spanning machine learning, large language and multimodal models, and agentic AI.
+"""
 
 imageUrl = "img/IMG_4878.jpg"
 imageWidth = 200
@@ -35,5 +39,5 @@ weight = 3
 
 [[menu.main]]
 name = "Email"
-url = "mailto:yuehanqi@usc.edu"
+url = "/about/"
 weight = 4

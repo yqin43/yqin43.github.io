@@ -8,19 +8,22 @@
     <language>en-us</language>
     <atom:link href="https://yqin43.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://yqin43.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yqin43.github.io/about/</guid>
+      <description>class Me: def __init__(self): self.name = &amp;#34;Yuehan Qin&amp;#34; self.email = &amp;#34;yuehanqi@usc.edu&amp;#34; self.location = &amp;#34;Los Angeles, CA&amp;#34; </description>
+    </item>
+    <item>
       <title>Publications</title>
       <link>https://yqin43.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yqin43.github.io/publication/</guid>
       <description>Google Scholar
-Preprints: Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning.
-Qin Y., Li L., Nian Y., Yu X., Zhao Y., Ma X.
-Under submission arxiv
-JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model.
-Nian Y., Zhu S., Qin Y., Li L., Wang Z., Xiao C., Zhao Y.
-Under submission arxiv
-Treble Counterfactual VLMs: A Causal Approach to Hallucination.
-Li S., Qu J., Zhou Y., Qin Y., Yang T.</description>
+Preprints: M3OOD: Automatic Selection of Multimodal OOD Detectors. Yuehan Qin, Li Li, Defu Cao, Tiankai Yang, Yue Zhao.
+ClimateLLM: Efficient Weather Forecasting via Frequency-Aware Large Language Models.
+Shixuan Li†, Wei Yang†, Peiyu Zhang, Xiongye Xiao, Defu Cao, Yuehan Qin, Xiaole Zhang, Yue Zhao, Paul Bogdan.
+A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations. Li Li, Peilin Cai, Ryan A Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S Yu, Xiyang Hu, Yue Zhao.</description>
     </item>
   </channel>
 </rss>

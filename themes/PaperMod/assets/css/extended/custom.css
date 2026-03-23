@@ -1,14 +1,18 @@
 /* light / dark */
-:root { --code-bg:#f6f8fa; --code-radius:7px; }
-html[data-theme='dark'] { --code-bg:#0d1117; }
+:root { --code-bg:#f6f8fa; --code-color:#6b7280; --code-radius:7px; }
+html[data-theme='dark'] { --code-bg:#0d1117; --code-color:#c9d1d9; }
 
-.chroma .n  { color: #24292e !important; } /* 普通变量 */
+.chroma .n  { color: #6b7280 !important; } /* 普通变量 */
+.post-content .highlight span[style*="color:#e6db74"] {
+  color: #d8c24f !important;
+}
 .post-content pre,
 .post-content pre code,
 .highlight pre,
 .chroma,
 .chroma pre {
   background: var(--code-bg) !important;
+  color: var(--code-color) !important;
   border-radius: var(--code-radius) !important;
 }
 
@@ -24,3 +28,36 @@ html[data-theme='dark'] { --code-bg:#0d1117; }
 .chroma pre { 
   padding: 14px 16px !important;
 } */
+
+.profile .profile-subtitle {
+  max-width: 48rem;
+  text-align: left;
+}
+
+.profile .profile-subtitle p {
+  margin-bottom: 0.9rem;
+}
+
+.profile .profile-subtitle p:last-child {
+  margin-bottom: 0;
+}
+
+.profile .profile-subtitle a {
+  color: #2f5fbf;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.profile .profile-subtitle a:hover {
+  color: #1f4ea9;
+}
+
+.post-content > p:first-child > a {
+  color: #2f5fbf;
+  box-shadow: none;
+}
+
+.post-content > p:first-child > a:hover {
+  color: #1f4ea9;
+  box-shadow: none;
+}
