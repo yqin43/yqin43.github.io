@@ -17,16 +17,23 @@ Li Li, Peilin Cai, Ryan A Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu,
 MTI-LLM @ NeurIPS 2025 Spotlight
 
 ### Conference Papers:
-<!-- ### Preprints -->
-1. [__MetaOOD: Automatic Selection of OOD Detection Models.__](http://arxiv.org/abs/2410.03074)\
+1. [__Memory Retrieval for Changing Preferences.__](https://arxiv.org/abs/2606.02976)\
+__Yuehan Qin__, Li Li, Linxin Song, Wei Yang, Jiate Li, Yuqing Yang, Yue Zhao.\
+NeurIPS 2026
+
+2. [__"Someone Hid It": Query-Agnostic Black-Box Attacks on LLM-Based Retrieval.__](https://arxiv.org/abs/2602.00364)\
+Jiate Li, Defu Cao, Li Li, Wei Yang, __Yuehan Qin__, Chenxiao Yu, Tiannuo Yang, Ryan A. Rossi, Yan Liu, Xiyang Hu, Yue Zhao.\
+ICML 2026
+
+3. [__MetaOOD: Automatic Selection of OOD Detection Models.__](http://arxiv.org/abs/2410.03074)\
 __Yuehan Qin__†, Yichi Zhang†, Yi Nian†, Xueying Ding, Yue Zhao\
 ICLR 2025
 
-2. [__JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model.__](https://arxiv.org/abs/2504.03770)\
+4. [__JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model.__](https://arxiv.org/abs/2504.03770)\
 Yi Nian†, Shenzhe Zhu†, __Yuehan Qin__, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao.\
 COLM 2025
 
-3. [__Treble Counterfactual VLMs: A Causal Approach to Hallucination.__](https://arxiv.org/abs/2503.06169)\
+5. [__Treble Counterfactual VLMs: A Causal Approach to Hallucination.__](https://arxiv.org/abs/2503.06169)\
 Shawn Li, Jiashu Qu, Linxin Song, Yuxiao Zhou, __Yuehan Qin__, Tiankai Yang, Yue Zhao.\
 EMNLP Findings 2025
 
@@ -43,14 +50,18 @@ WWW 2025 (Demo Track)
 ### Journal Papers:
 1. [__Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning.__](https://arxiv.org/abs/2504.06438)\
 __Yuehan Qin__, Shawn Li, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma.\
-TMLR\
+TMLR 2026 \
 ER @ NeurIPS 2025
 
-2. [__Coupling relationship analysis of gold content using Gaofen-5 (GF-5) satellite hyperspectral remote sensing data: A potential method in Chahuazhai gold mining area, Qiubei County, SW China.__](https://doi.org/10.3390/rs14010109)\
+2. [__CMOOD: Concept-based Multi-label OOD Detection.__](https://arxiv.org/abs/2411.13578)\
+Zhendong Liu†, Yi Nian†, __Yuehan Qin__†, Henry Peng Zou, Li Li, Xiyang Hu.\
+TMLR 2026
+
+3. [__Coupling relationship analysis of gold content using Gaofen-5 (GF-5) satellite hyperspectral remote sensing data: A potential method in Chahuazhai gold mining area, Qiubei County, SW China.__](https://doi.org/10.3390/rs14010109)\
  __Qin Y.__, Zhang X., Zhao Z., Li Z., Yang C., Huang Q.\
  Remote Sensing 2022
 
-3. [__Revealing racial-ethnic segregation with individual experienced segregation indices based on social media data: A case study in Los Angeles-Long Beach-Anaheim.__](https://www.sciencedirect.com/science/article/abs/pii/S0198971523000716)\
+4. [__Revealing racial-ethnic segregation with individual experienced segregation indices based on social media data: A case study in Los Angeles-Long Beach-Anaheim.__](https://www.sciencedirect.com/science/article/abs/pii/S0198971523000716)\
 Wu M., Liu X., __Qin Y.__, Huang Q.\
 Computers, Environment and Urban Systems 2023
 
